@@ -13,15 +13,6 @@
   z-index: 1;
 }
 
-#contact::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  background: url(../../Images/Separator.svg);
-}
-
 #contact .container {
   width: 70%;
   max-width: 1200px;
